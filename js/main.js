@@ -170,7 +170,7 @@ window.addEventListener('resize', function() {
         if (window.innerWidth >= 1025) {
             img.src = img.src.replace('imgHome.png', 'ImgHomeDesktop.png');
         } else {
-            img.src = img.src.replace('ImgHomeDesktop.png', 'ImgHome.png');
+            img.src = img.src.replace('ImgHomeDesktop.png', 'imgHome.png');
         }
     }
 });
