@@ -159,18 +159,18 @@ window.addEventListener('load', function() {
     const img = document.querySelector('img[src*="imgHome.png"]');
     
     if (img && window.innerWidth >= 1025) {
-        img.src = img.src.replace('imgHome.png', 'imghomedesktop.png');
+        img.src = img.src.replace('imgHome.png', 'imgHomeDesktop.png');
     }
 });
 
 window.addEventListener('resize', function() {
-    const img = document.querySelector('img[src*="imgHome"], img[src*="imghomedesktop"]');
+    const img = document.querySelector('img[src*="imgHome"], img[src*="imgHomeDesktop"]');
     
     if (img) {
         if (window.innerWidth >= 1025) {
-            img.src = img.src.replace('imgHome.png', 'imghomedesktop.png');
+            img.src = img.src.replace('imgHome.png', 'imgHomeDesktop.png');
         } else {
-            img.src = img.src.replace('imghomedesktop.png', 'imgHome.png');
+            img.src = img.src.replace('imgHomeDesktop.png', 'imgHome.png');
         }
     }
 });
