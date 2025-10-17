@@ -29,7 +29,7 @@ Questo sito è una pagina statica, pensata per essere semplice, chiara e facilme
 
 ## 👩‍⚕️ Autrice del sito
 
-Sviluppato da Szymon Jakub Chmiel per la dott.essa Annarosa Paolantonio.
+Sviluppato da Szymon Jakub Chmiel per la dott.ssa Annarosa Paolantonio.
 
 I contenuti testuali e visivi di questo sito sono protetti da licenza Creative Commons BY-NC-ND 4.0.  
 Non è consentita la copia, modifica o uso commerciale senza autorizzazione esplicita.
